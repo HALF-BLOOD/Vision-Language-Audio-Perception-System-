@@ -131,25 +131,8 @@ The model is trained on a combined dataset:
 **Indoor Objects**
 - tv, laptop, cell phone, book, clock, bottle, cup, etc.
 
-## Model Performance
 
-| Metric | Value |
-|--------|-------|
-| mAP@50 | See training results |
-| mAP@50-95 | See training results |
-| Inference Speed | ~30-50 FPS (GPU) |
 
-## Project Structure
-
-```
-├── vision-language-audio-perception-system-for-assist.ipynb  # Main notebook
-├── README.md                                                  # This file
-└── final_model/                                               # Generated outputs
-    ├── yolo_assistive_vision.pt                              # Trained model
-    ├── class_config.json                                      # Class mapping
-    ├── system_config.json                                     # Configuration
-    └── training_results/                                      # Training curves
-```
 
 ## Training
 
@@ -223,3 +206,4 @@ This project is for educational purposes as part of a Deep Learning coursework.
 
 Release link:
 https://github.com/HALF-BLOOD/Vision-Language-Audio-Perception-System-/releases/tag/VisionLanguageAudioPerception
+
