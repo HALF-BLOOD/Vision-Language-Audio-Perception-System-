@@ -220,3 +220,6 @@ Student ID: 20049123
 ## License
 
 This project is for educational purposes as part of a Deep Learning coursework.
+
+Release link:
+https://github.com/HALF-BLOOD/Vision-Language-Audio-Perception-System-/releases/tag/VisionLanguageAudioPerception
